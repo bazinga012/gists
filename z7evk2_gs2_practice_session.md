@@ -1,4 +1,3 @@
-```markdown
 # 📋 UPSC GS Paper II Practice Evaluation Report
 
 <div align="center">
@@ -362,4 +361,3 @@ Cultivate the mindset of a civil servant throughout your preparation. This means
 **🎯 Focus**: Transform each question into significant governance mastery! 📋
 
 </div>
-```
